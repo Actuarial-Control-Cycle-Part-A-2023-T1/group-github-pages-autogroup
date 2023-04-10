@@ -14,6 +14,7 @@ Team Members: Aditeya Sharma, Eagan Jiang, Jim Liu, Michael Wang
         - [Budget and Payments](#budget-and-payments)
 3. [Model Development](#model-development)
     - [Exploratory Data Analysis](#exploratory-data-analysis)
+        - [Summary of Dataset](#summary-of-dataset)
         - [Data Limitations and Cleaning](#data-limitations-and-cleaning)
         - [Preliminary Data Exploration](#preliminary-exploratory-data-analysis)
     - [Assumptions](#assumptions)
