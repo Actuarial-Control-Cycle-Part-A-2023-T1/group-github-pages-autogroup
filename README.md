@@ -125,6 +125,7 @@ For the final model, some assumptions had to be made for practical reasons (mode
 - An autoregressive model is appropriate for forecasting both hazards and economic indices, using their provided time series data.
 
 ### Risk and Risk Mitigation Strategies
+
 | Risk Category | Risk | Description | Mitigation Strategy |
 |:---|:---|:---|:---|
 | Financial:<br>Underwriting Risk | Policyholder Behaviour | Policyholders not taking sufficient precaution after a few years of purchasing the Insurance. | Encouraging people to take more cautionary measures to protect the property and themselves from injury by giving them better incentives such as lower premium and organising yearly house inspections to spread awareness. |
